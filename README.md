@@ -1,6 +1,6 @@
 # Blog
 
-A static site blog built with [Zola](https://www.getzola.org/) using the [Serene](https://github.com/bepass-org/serene) theme.
+A static site blog built with [Zola](https://www.getzola.org/) using the [Serene](https://github.com/isunjn/serene) theme.
 
 ## Getting Started
 
