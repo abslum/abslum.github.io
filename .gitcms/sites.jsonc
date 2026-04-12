@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "sites": [
+    {
+      "key": "akhbarism",
+      "display_name": "Akhbarism",
+      "website_url": "https://akhbarism.github.io",
+      "root_path": ""
+    }
+  ]
+}

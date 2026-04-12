@@ -1,0 +1,31 @@
+{
+  "version": "1",
+  "media_path": "/static",
+  "ssg_framework": "other",
+  "frontmatter_format": "toml",
+  "sitemap_url": "https://akhbarism.github.io/sitemap.xml",
+  "publishing_mode": "editorial_workflow",
+  "collections": [
+    {
+      "name": "posts",
+      "git_path": "/content/posts/",
+      "file_extension": ".md",
+      "filename_pattern": "",
+      "collection_type": "flat"
+    },
+    {
+      "name": "about",
+      "git_path": "/content/about/",
+      "file_extension": ".md",
+      "filename_pattern": "",
+      "collection_type": "flat"
+    },
+    {
+      "name": "serene",
+      "git_path": "/themes/serene/",
+      "file_extension": ".md",
+      "filename_pattern": "",
+      "collection_type": "flat"
+    }
+  ]
+}
