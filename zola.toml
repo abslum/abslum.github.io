@@ -1,6 +1,6 @@
 # The URL the site will be built for
-base_url = "https://akhbarism.github.io"
-title = "Akhbarism"
+base_url = "https://abumakh.github.io"
+title = "abumakh"
 description = "A Twelver Shia from the Akhbari tradition, focused on hadith studies and software development"
 default_language = "en"
 theme = "serene"
