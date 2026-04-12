@@ -8,11 +8,11 @@ lang = 'en'
 footer = false
 
 # If you don't want to display id/bio/avatar, simply comment out that line
-name = "Abu Muslim T. (akhbarism)"
-bio = "Akhbari at heart, navigating texts and tales of old."
+name = "Abu Muslim T."
+bio = "navigating texts and tales of old."
 avatar = "img/avatar.webp"
 links = [
-    { name = "GitHub", icon = "github", url = "https://github.com/<your-username>" },
+    { name = "GitHub", icon = "github", url = "https://github.com/abumakh" },
     { name = "Email", icon = "email", url = "mailto:akhbarism4@gmail.com" },
 ]
 
