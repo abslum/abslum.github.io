@@ -1,20 +1,17 @@
 +++
-title = "About me"
-description = "About page of ..."
+title = "abumakh: about"
+description = "Personal about page"
 template = "prose.html"
-insert_anchor_links = "none"
 
 [extra]
-lang = 'en'
-
-title = "About me"
-subtitle = "I write about Akhbari Shia thought, hadith studies, and software development."
-
-math = false
-mermaid = false
-copy = false
-comment = false
-reaction = false
+title = "About"
+subtitle = "A bit about me"
 +++
 
-Hi, my name is Abumuslim, a Twelver Shia from the Akhbari tradition, interested in hadith studies and software development.
+Hi, I'm a developer based in Schleswig-Holstein, Germany. I like building things for the web and exploring different areas of software development.
+
+Outside of tech, I'm interested in Islamic studies. I'm a Twelver Shia from the Akhbari tradition, and I spend some time reading and learning about hadith.
+
+This site is just my little corner on the internet where I share projects, thoughts, and random things I find interesting.
+
+Thanks for stopping by :)
